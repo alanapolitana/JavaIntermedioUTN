@@ -1,0 +1,6 @@
+https://www.jrebel.com/blog/java-8-lambdas
+https://www.jrebel.com/resources/java-8-best-practices
+
+
+3
+https://www.jrebel.com/resources/java-8-streams-cheat-sheet
